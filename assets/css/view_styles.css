@@ -1,0 +1,11 @@
+.maindiv {
+	background color: #ffffff;
+	display: block;
+}
+
+.view {
+	background color: #ffffff;
+	display: block;
+	list-style: none;
+	text-decoration: none;
+}
